@@ -1,0 +1,4 @@
+//GNU_INSTALL_ROOT := $(PROGFILES)
+GNU_INSTALL_ROOT := /home/ralph/Downloads/nrf51/gcc-arm-none-eabi
+GNU_VERSION := 5.2.3
+GNU_PREFIX := arm-none-eabi
